@@ -35,7 +35,7 @@ This repository contains the source code for a Todo App built using React and Re
 1. After installation, start the development server by running:
 
     ```sh
-    npm start
+    npm run dev
     ```
 
 2. Open your web browser and visit `http://localhost:3000` to view the application.
